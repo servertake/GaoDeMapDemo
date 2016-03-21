@@ -18,6 +18,7 @@ import com.amap.map2d.demo.util.ToastUtil;
 
 /**
 提交two
+提交three
 
 
  * AMapV1地图中介绍如何显示一个基本地图
