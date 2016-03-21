@@ -17,9 +17,7 @@ import com.amap.map2d.demo.util.ToastUtil;
  
 
 /**
-<<<<<<< HEAD
-提交two
-提交three
+
 
 
 =======
