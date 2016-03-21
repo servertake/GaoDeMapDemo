@@ -17,13 +17,10 @@ import com.amap.map2d.demo.util.ToastUtil;
  
 
 /**
-<<<<<<< HEAD
 提交two
 提交three
 
 
-=======
->>>>>>> parent of db4340d... 提交two
  * AMapV1地图中介绍如何显示一个基本地图
  */
 public class AbroadMapSwitchActivity extends Activity {
